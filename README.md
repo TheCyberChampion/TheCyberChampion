@@ -17,4 +17,4 @@
   
 ##
   
-![Snake animation](https://github.com/TheCyberChampion/TheCyberChampion/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/TheCyberChampion/thecyberchampion/blob/output/github-contribution-grid-snake.svg)
